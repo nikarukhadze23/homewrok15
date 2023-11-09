@@ -58,7 +58,7 @@
         margin-top: -40px;
         margin-right: 175px;
     }
-    .buttonn{
+    button{
         width: 162px;
         height: 46px;
         flex-shrink: 0;

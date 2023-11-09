@@ -58,7 +58,7 @@ h2{
     justify-content: center;
     column-gap: 24px;
 }
-.buttonn{
+.didibutt{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -71,7 +71,7 @@ h2{
     justify-content: center;
     row-gap: 16px;
 }
-.butoni{
+button{
     cursor: pointer;
     border: none;
     width: 326px;
